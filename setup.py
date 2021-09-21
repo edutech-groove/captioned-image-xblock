@@ -20,8 +20,8 @@ def package_data(pkg, roots):
 
 
 setup(
-    name='captionedimage-xblock',
-    version='edt.1.0.1',
+    name='edt-captionedimage-xblock',
+    version='1.0.1',
     description='Captioned Image Xblock',   
     license='AGPL v3',         
     packages=[

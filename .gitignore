@@ -48,5 +48,5 @@ Temporary Items
 
 # Compiled python files
 *.pyc
-captionedimage_xblock.egg-info
+*.egg-info
 dist/
